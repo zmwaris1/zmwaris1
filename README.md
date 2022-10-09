@@ -33,7 +33,7 @@ Feel free to hover over my ML/DL projects [Here](https://github.com/zmwaris1/zmw
 <img src = "https://github.com/zmwaris1/logos/blob/main/unnamed.png" alt = "DSA" height="60" style="vertical-align:top; margin:4px"><br/>
 </p>
 
-I have completed my concepts on Data Structures and Algorithms and have also done some competitive programming to improve my codebase. [Visit here](https://github.com/zmwaris1/LeetHub)
+I have completed my concepts on Data Structures and Algorithms and have also done some competitive programming to improve my codebase. [Visit here](https://github.com/zmwaris1/LeetHub) to see some of my codebases that i uploaded.
 
 <p align = "center">
 <img src = "https://github.com/zmwaris1/logos/blob/main/images.png" alt = "Blockchain" height="60" style="vertical-align:top; margin:4px"><br/>
