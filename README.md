@@ -58,6 +58,8 @@ I have also learned the concepts of cryptography although I am still trying to i
 > I also love working on open source projects.<br/> 
 That is why I am currently learning everything.<br/>
 
+Check out my Resume!
+
 <h3 align="center">GitHub Stats:</h3>
 <p align= "center">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zmwaris1&theme=tokyonight" alt = "Top Languages Used" height= "250">
