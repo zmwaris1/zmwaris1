@@ -58,7 +58,7 @@ I have also learned the concepts of cryptography although I am still trying to i
 > I also love working on open source projects.<br/> 
 That is why I am currently learning everything.<br/>
 
-Check out my Resume!
+Check out my [Resume!](https://github.com/zmwaris1/assets/blob/main/Zafar%20M%20Waris%20Resume-ML.pdf)
 
 <h3 align="center">GitHub Stats:</h3>
 <p align= "center">
