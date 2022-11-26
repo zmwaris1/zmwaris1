@@ -18,13 +18,13 @@
 <img src = "https://github.com/zmwaris1/logos/blob/main/170-1706361_web-development-icon-web-development-logo-png-transparent.png" alt = "WebD" height="60" style="vertical-align:top; margin:4px"><br/>
 </p>
 
-I am currently learning the things that are required to be a software engineer. Currently I have completed learning ML/DL concepts and implementation. I have also completed a few basic topics that I thought would be necessary and future value. I have listed the topics below.
+I am actively looking for an opportunity in Data Science. I have completed some internships and right now I am getting some hands-on experience and applying for jobs. I also participate actively in data science competitions. I love to work on Deep Learning technologies.
 
 <p align = "center">
 <img src = "https://github.com/zmwaris1/logos/blob/main/346-3460443_machine-learning-course-near-me-machine-learning-logo.png" alt = "ML/AI" height="60" style="vertical-align:top; margin:4px"><br/>
 </p>
 
-I am currently working on Natural Language Processing and Computer Vision projects.<br/>
+I am currently working on Natural Language Processing and Computer Vision.<br/>
 I am interested in Data Science, Machine Learning, Artificial Intelligence and Web Development.<br/>
 You can ask me about AI, ML, Web Dev., Data Science.<br/>
 Feel free to hover over my ML/DL projects [Here](https://github.com/zmwaris1/zmwaris)<br/>
@@ -56,7 +56,7 @@ I have also learned the concepts of cryptography although I am still trying to i
 </p>
 
 > I also love working on open source projects.<br/> 
-That is why I am currently learning everything.<br/>
+That is why I am currently learning everything possible.<br/>
 
 Check out my [assets](https://github.com/zmwaris1/assets) page.
 
