@@ -10,7 +10,7 @@
 <h3 align="center">Github Metrics:</h3>
 <p align = "center">
 <img src = "https://img.shields.io/github/followers/zmwaris1?label=Follow&style=flat">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zmwaris1.visitor-badge)
 </p>
 
 <h3 align="center">Tech Stacks:</h3>
