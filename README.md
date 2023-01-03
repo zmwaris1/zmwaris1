@@ -10,9 +10,9 @@
 <h3 align="center">Github Metrics:</h3>
 <p align = "center">
 <img src = "https://img.shields.io/github/followers/zmwaris1?label=Follow&style=flat">
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zmwaris1.visitor-badge)
 </p>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 <h3 align="center">Tech Stacks:</h3>
 <p align = "center">
 <img src = "https://github.com/zmwaris1/logos/blob/main/170-1706361_web-development-icon-web-development-logo-png-transparent.png" alt = "WebD" height="60" style="vertical-align:top; margin:4px"><br/>
