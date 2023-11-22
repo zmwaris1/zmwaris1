@@ -12,10 +12,6 @@
 <img src = "https://img.shields.io/github/followers/zmwaris1?label=Follow&style=flat">
 </p>
 
-<h3 align="center">Tech Stacks:</h3>
-<p align = "center">
-<img src = "https://github.com/zmwaris1/logos/blob/main/170-1706361_web-development-icon-web-development-logo-png-transparent.png" alt = "WebD" height="60" style="vertical-align:top; margin:4px"><br/>
-</p>
 
 I am actively looking for an opportunity in Software Development. I have completed internships and and actively contribute to open source projects. Do reach out for available opportunities. I am also interested in Data Science, Data Engineering.
 I have also learned Web3 and smart contracts development.
